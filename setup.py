@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
-        'Flask==2.3.3',
+        'Flask==3.1.3',
     ],
     entry_points={
         'console_scripts': [
